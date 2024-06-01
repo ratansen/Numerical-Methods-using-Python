@@ -15,8 +15,8 @@ This repository contains Python implementations of various numerical methods use
 - **Numerical Differentiation**
   - Finite Difference Method
 - **Solving Systems of Linear Equations**
-  - Gaussian Elimination
-  - LU Decomposition
+  - Gaussian Elimination and Gauss Jordan
+  - Cholesky Decomposition
   - Jacobi Method
   - Gauss-Seidel Method
 - **Ordinary Differential Equations (ODEs)**
