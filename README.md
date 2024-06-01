@@ -30,38 +30,12 @@ This repository contains Python implementations of various numerical methods use
 - SciPy
 - Matplotlib
 
-## Repository Structure
-
-```
-numerical-methods-python/
-├── root_finding/
-│   ├── bisection.py
-│   ├── newton_raphson.py
-│   └── secant.py
-├── numerical_integration/
-│   ├── trapezoidal_rule.py
-│   ├── simpsons_rule.py
-│   └── monte_carlo_integration.py
-├── numerical_differentiation/
-│   └── finite_difference.py
-├── linear_equations/
-│   ├── gaussian_elimination.py
-│   ├── lu_decomposition.py
-│   ├── jacobi_method.py
-│   └── gauss_seidel_method.py
-├── ode/
-│   ├── euler_method.py
-│   └── runge_kutta_methods.py
-├── requirements.txt
-└── README.md
-```
 
 - `root_finding/`: Directory for root finding methods.
 - `numerical_integration/`: Directory for numerical integration methods.
 - `numerical_differentiation/`: Directory for numerical differentiation methods.
 - `linear_equations/`: Directory for solving systems of linear equations.
 - `ode/`: Directory for solving ordinary differential equations.
-- `requirements.txt`: List of required Python packages.
 - `README.md`: Project documentation.
 
 ## Contributing
