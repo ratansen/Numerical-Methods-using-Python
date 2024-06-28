@@ -2,7 +2,7 @@
 
 This repository contains Python implementations of various numerical methods used for solving mathematical problems that cannot be solved exactly. These methods include root finding, numerical integration, numerical differentiation, solving systems of linear equations, and solving ordinary differential equations (ODEs).
 
-## Features
+## Methods to be added
 
 - **Root Finding**
   - Bisection Method
@@ -27,7 +27,6 @@ This repository contains Python implementations of various numerical methods use
 
 - Python 3.6 or higher
 - NumPy
-- SciPy
 - Matplotlib
 
 
